@@ -1,0 +1,19 @@
+{
+  "alunos" :[
+
+    {
+	"id":1,
+	"nome":"Gustavo Garcia",
+	"email":"gustavo@gmail.com",
+	"cidade":"Presidente Prudente",
+	"curso":"Ciência da Computação"
+    },
+    {	
+	"id":2,
+	"nome":"Eduardo Silva",
+	"email":"eduardo@gmail.com",
+	"cidade":"Presidente Prudente",
+	"curso":"Engenharia Civil"
+    }
+  ]
+}
